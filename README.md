@@ -106,7 +106,8 @@ Ctrl + Shif + p = Terminal integrate or Ctrl + Shif + ñ
 * git config --global user.name "Jonatan Diaz"
 * git config --global user.email "diaz@gm.com"
 
-7. 
+7. git remote add origin https://github.com/JonatanDiazC/Markdow-Course.git
+8. git push -u origin main
 
 #### Emoticones
 
