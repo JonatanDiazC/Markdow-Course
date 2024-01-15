@@ -93,7 +93,18 @@ prin("Hello word)
 Ctrl + Shif + p = Terminal integrate or Ctrl + Shif + ñ
 
 1. git init
-2. status   > Muestra los archivos de las carpetas
+2. git status   > Muestra los archivos de las carpetas
+3. git add .    > Para agregar los archivos
+4. git commit -m "Markdow intro"
+
+### Ver si tengo configurado el usuario y email en GiT
+5. git config user.name
+6. git config user.email
+
+>> Si necesitas configurar o cambiar el nombre de usuario y el correo electrónico en Git, puedes usar los siguientes comandos:
+
+* git config --global user.name "Jonatan Diaz"
+* git config --global user.email "diaz@gm.com"
 
 
 
