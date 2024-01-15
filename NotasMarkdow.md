@@ -108,4 +108,8 @@ Ctrl + Shif + p = Terminal integrate or Ctrl + Shif + ñ
 
 7. 
 
+#### Emoticones
+
+:smiley:
+:+1:
 
